@@ -150,6 +150,7 @@ New Guitar Hero 3 PC mod released known as BetterGH3! Watch the trailer and down
 * [Moonscraper](https://discord.gg/bwEr72Ghba)
 * [Nautilus](https://discord.gg/Bm8CYG6Pbh)
 * [NeverHax](https://discord.gg/bacw7K6jhh)
+* [Noteplacer Central](https://discord.gg/kB3qwfg8Wq)
 * [Rhythmverse](https://discord.com/invite/N6Mpv8p6F4)
 * [Small Charters United](https://discord.gg/rrdBXNZrgv)
 * [Yet Another Rhythm Game](https://discord.com/invite/sqpu4R552r)
@@ -181,6 +182,7 @@ New Guitar Hero 3 PC mod released known as BetterGH3! Watch the trailer and down
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
